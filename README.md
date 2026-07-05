@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @1uigii
-- 👀 I’m interested in systems programming, learning about web protocols, and writing rust, c, c++
-- 🌱 I’m currently learning how to contribute to the open source community
-- 📫 How to reach me 1uigi@protonmail.com (note the _one_)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: loading...
+Writing low-level application code is very nice.
+
+Reach me at 1uigi@protonmail.com (note the _one_)
 
 ```c++
 struct luigi_t {
